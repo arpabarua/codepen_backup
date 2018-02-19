@@ -1,0 +1,27 @@
+.box {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.myButton {
+  background-color: #174E7D;
+  border-radius: 5px;
+  color: #fff;
+  display: inline-block;
+  margin-bottom: 5px;
+  padding: 5px 15px;
+  text-decoration: none;
+/*    I HAVE ADDED THIS CSS TO MAKE THEM BOTH ELEMENTS (LINK AND BUTTON) HAVE THE SAME FONT SETTINGS */
+  font-size: 12px;
+  font-family: courier;
+  font-weight: normal;
+}
+
+.link-primary {
+  color: green;
+  margin-left: 10px;
+}
+
+.btn-primary {
+  background-color: pink;
+}
